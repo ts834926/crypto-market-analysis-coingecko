@@ -24,15 +24,6 @@ MySQL for data storage,
 SQL for analytical querying,
 Power BI for data visualization
 
-Key Analysis Performed:
-
-Calculation of cryptocurrency price volatility,
-Trend analysis over time,
-Comparative market insights,
-Time-series data exploration,
-Exchange-level observations
-
-
 Dashboard Preview:
 
 Market Cap Analysis,
