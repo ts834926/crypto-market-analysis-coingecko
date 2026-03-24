@@ -16,32 +16,38 @@ Project Architecture:
 
 CoinGecko API → Python Data Pipeline → MySQL Database → SQL Analysis → Power BI Dashboard
 
-Technology Stack
-Python for data extraction and pipeline development
-CoinGecko API as the data source
-MySQL for data storage
-SQL for analytical querying
+Technology Stack:
+
+Python for data extraction and pipeline development,
+CoinGecko API as the data source,
+MySQL for data storage,
+SQL for analytical querying,
 Power BI for data visualization
-Key Analysis Performed
-Calculation of cryptocurrency price volatility
-Trend analysis over time
-Comparative market insights
-Time-series data exploration
+
+Key Analysis Performed:
+
+Calculation of cryptocurrency price volatility,
+Trend analysis over time,
+Comparative market insights,
+Time-series data exploration,
 Exchange-level observations
-Dashboard Preview
-Overview
-Volatility Analysis
-Price Trends
+
+
+Dashboard Preview:
+
+Market Cap Analysis,
+Coin Price Trend Analysis,
+Exchange Analysis
 
 How to Run the Project:
 
 Clone the repository
-git clone https://github.com/YOUR_USERNAME/crypto-market-analysis-coingecko.git
-Install required dependencies
-pip install -r requirements.txt
-Run the data pipeline notebook located in the data_pipeline folder
-Execute SQL queries available in the sql_analysis folder
-Open the Power BI dashboard file in the powerbi_dashboard folder
+git clone https://github.com/ts834926/crypto-market-analysis-coingecko.git
+->Install required dependencies
+->pip install -r requirements.txt
+->Run the data pipeline notebook located in the data_pipeline folder
+->Execute SQL queries available in the sql_analysis folder
+->Open the Power BI dashboard file in the powerbi_dashboard folder
 
 Project Objective:
 
