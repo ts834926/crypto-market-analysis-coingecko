@@ -4,7 +4,7 @@ Project Overview:
 
 This project demonstrates an end-to-end cryptocurrency data pipeline built using real-time market data from the CoinGecko API. The workflow involves extracting crypto price data using Python, storing it in a structured MySQL database, performing analytical queries in SQL, and presenting insights through an interactive Power BI dashboard.
 
-The objective of this project is to simulate a real-world data workflow that combines data engineering and data analysis practices.
+This project simulates a real-world data workflow that combines data engineering and data analysis practices.
 
 Problem Statement:
 
